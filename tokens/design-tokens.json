@@ -5,8 +5,7 @@
   "typography": {},
   "spacing": {},
   "borders": {
-    "button-test-radius": "4px",
-    "button-test-width": "4px"
+    "button-test-radius": "4px"
   },
   "effects": {},
   "variables": {}
