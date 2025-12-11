@@ -1,11 +1,11 @@
 {
   "colors": {
-    "ds-color-button-test": "hsl(241, 100%, 91%)"
+    "ds-color-button-test": "hsl(239, 43%, 36%)"
   },
   "typography": {},
   "spacing": {},
   "borders": {
-    "button-test-radius": "16px"
+    "button-test-radius": "4px"
   },
   "effects": {},
   "variables": {}
