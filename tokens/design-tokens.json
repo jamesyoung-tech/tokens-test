@@ -1,7 +1,7 @@
 {
   "colors": {
-    "ds-color-button-test": "hsl(24, 100%, 50%)",
-    "ds-color-this-could-be-button-text": "hsl(233, 65%, 45%)"
+    "ds-color-button-test": "hsl(240, 11%, 19%)",
+    "ds-color-this-could-be-button-text": "hsl(0, 0%, 100%)"
   },
   "typography": {
     "ds-font-this-could-be-button-text": {
