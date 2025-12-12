@@ -1,6 +1,6 @@
 {
   "colors": {
-    "ds-color-button-test": "hsl(27, 98%, 54%)",
+    "ds-color-button-test": "hsl(233, 65%, 45%)",
     "ds-color-this-could-be-button-text": "hsl(240, 7%, 65%)"
   },
   "typography": {
@@ -14,7 +14,7 @@
   },
   "spacing": {},
   "borders": {
-    "button-test-radius": "16px",
+    "button-test-radius": "4px",
     "button-test-width": "3px"
   },
   "effects": {},
