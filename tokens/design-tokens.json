@@ -1,7 +1,11 @@
 {
   "colors": {
     "ds-color-button-test": "hsl(233, 65%, 45%)",
-    "ds-color-this-could-be-button-text": "hsl(240, 7%, 65%)"
+    "ds-color-this-could-be-button-text": "hsl(240, 7%, 65%)",
+    "ds-color-rectangle-1": "hsl(233, 65%, 45%)",
+    "ds-color-rectangle-2": "hsl(240, 6%, 37%)",
+    "ds-color-rectangle-3": "hsl(242, 78%, 63%)",
+    "ds-color-rectangle-4": "hsl(240, 5%, 47%)"
   },
   "typography": {
     "ds-font-this-could-be-button-text": {
@@ -12,7 +16,16 @@
       "letterSpacing": "normal"
     }
   },
-  "spacing": {},
+  "spacing": {
+    "rectangle-1-width": "165px",
+    "rectangle-1-height": "124px",
+    "rectangle-2-width": "165px",
+    "rectangle-2-height": "124px",
+    "rectangle-3-width": "165px",
+    "rectangle-3-height": "124px",
+    "rectangle-4-width": "165px",
+    "rectangle-4-height": "124px"
+  },
   "borders": {
     "button-test-radius": "4px",
     "button-test-width": "3px"
