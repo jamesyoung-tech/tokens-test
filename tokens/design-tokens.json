@@ -1,8 +1,8 @@
 {
   "colors": {
-    "ds-color-button-test": "hsl(239, 43%, 36%)",
+    "ds-color-button-test": "hsl(52, 100%, 69%)",
     "ds-color-this-could-be-button-text": "hsl(240, 7%, 65%)",
-    "ds-color-rectangle-1": "hsl(239, 43%, 36%)",
+    "ds-color-rectangle-1": "hsl(27, 100%, 81%)",
     "ds-color-rectangle-2": "hsl(240, 6%, 37%)",
     "ds-color-rectangle-3": "hsl(242, 78%, 63%)",
     "ds-color-rectangle-4": "hsl(240, 5%, 47%)"
