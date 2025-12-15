@@ -1,18 +1,18 @@
 {
   "colors": {
-    "ds-color-button-test": "hsl(52, 100%, 69%)",
-    "ds-color-this-could-be-button-text": "hsl(240, 7%, 65%)",
+    "ds-color-components-button-primary": "hsl(233, 65%, 45%)",
+    "ds-color-button-text": "hsl(240, 100%, 99%)",
     "ds-color-rectangle-1": "hsl(27, 100%, 81%)",
     "ds-color-rectangle-2": "hsl(240, 6%, 37%)",
     "ds-color-rectangle-3": "hsl(242, 78%, 63%)",
     "ds-color-rectangle-4": "hsl(240, 5%, 47%)"
   },
   "typography": {
-    "ds-font-this-could-be-button-text": {
+    "ds-font-button-text": {
       "fontFamily": "Avenir",
-      "fontSize": "18px",
-      "fontWeight": 350,
-      "lineHeight": "18px",
+      "fontSize": "16px",
+      "fontWeight": 400,
+      "lineHeight": "16px",
       "letterSpacing": "normal"
     }
   },
@@ -27,8 +27,7 @@
     "rectangle-4-height": "124px"
   },
   "borders": {
-    "button-test-radius": "4px",
-    "button-test-width": "3px"
+    "components-button-primary-radius": "4px"
   },
   "effects": {},
   "variables": {}
