@@ -1,10 +1,13 @@
 {
   "colors": {
-    "ds-color-components-button-primary": "hsl(233, 65%, 45%)",
+    "ds-color-components-button-primary": "hsl(24, 100%, 45%)",
     "ds-color-button-text": "hsl(240, 100%, 99%)",
     "ds-color-rectangle-1": "hsl(27, 100%, 81%)",
+    "ds-color-rectangle-5": "hsl(24, 100%, 45%)",
+    "ds-color-rectangle-6": "hsl(24, 100%, 50%)",
     "ds-color-rectangle-2": "hsl(240, 6%, 37%)",
     "ds-color-rectangle-3": "hsl(242, 78%, 63%)",
+    "ds-color-rectangle-7": "hsl(200, 100%, 50%)",
     "ds-color-rectangle-4": "hsl(240, 5%, 47%)"
   },
   "typography": {
@@ -19,10 +22,16 @@
   "spacing": {
     "rectangle-1-width": "165px",
     "rectangle-1-height": "124px",
+    "rectangle-5-width": "165px",
+    "rectangle-5-height": "124px",
+    "rectangle-6-width": "165px",
+    "rectangle-6-height": "124px",
     "rectangle-2-width": "165px",
     "rectangle-2-height": "124px",
     "rectangle-3-width": "165px",
     "rectangle-3-height": "124px",
+    "rectangle-7-width": "165px",
+    "rectangle-7-height": "124px",
     "rectangle-4-width": "165px",
     "rectangle-4-height": "124px"
   },
