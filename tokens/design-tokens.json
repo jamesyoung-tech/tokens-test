@@ -1,6 +1,6 @@
 {
   "colors": {
-    "ds-color-components-button-primary": "hsl(29, 100%, 50%)",
+    "ds-color-components-button-primary": "hsl(200, 100%, 50%)",
     "ds-color-button-text": "hsl(0, 0%, 100%)",
     "ds-color-rectangle-1": "hsl(27, 100%, 81%)",
     "ds-color-rectangle-5": "hsl(24, 100%, 45%)",
