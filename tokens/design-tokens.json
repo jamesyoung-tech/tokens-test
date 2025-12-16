@@ -1,7 +1,7 @@
 {
   "colors": {
-    "ds-color-components-button-primary": "hsl(29, 100%, 50%)",
-    "ds-color-button-text": "hsl(240, 11%, 19%)",
+    "ds-color-components-button-primary": "hsl(200, 100%, 50%)",
+    "ds-color-button-text": "hsl(240, 60%, 99%)",
     "ds-color-rectangle-1": "hsl(27, 100%, 81%)",
     "ds-color-rectangle-5": "hsl(24, 100%, 45%)",
     "ds-color-rectangle-6": "hsl(24, 100%, 50%)",
@@ -36,7 +36,7 @@
     "rectangle-4-height": "124px"
   },
   "borders": {
-    "components-button-primary-radius": "16px"
+    "components-button-primary-radius": "4px"
   },
   "effects": {},
   "variables": {}
